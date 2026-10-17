@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1037-bug-musdc-has-no-ttl-management-so-balances-and",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1037-bug-musdc-has-no-ttl-management-so-balances-and": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1037-bug-musdc-has-no-ttl-management-so-balances-and",
+    "origin"
+  ]
+}
